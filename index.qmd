@@ -1,0 +1,12 @@
+---
+title: "Meu Primeiro Site com Quarto"
+format: html
+---
+
+# Olá Mundo!
+
+Este é um exemplo de site feito com **Quarto**.
+
+```{r}
+# Um código em R (ou pode ser Python também)
+summary(cars)
